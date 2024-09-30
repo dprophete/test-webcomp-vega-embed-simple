@@ -1,7 +1,4 @@
 {
-    "mix_package_version": "1",
-    "mix_package_type": "webcomponent",
-    "file": "vega-embed-simple.js",
     "tag": "vega-embed-simple",
     "version": "1.0.0",
     "icon": "chart-bar",
