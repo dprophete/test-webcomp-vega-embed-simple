@@ -1,0 +1,20 @@
+{
+    "mix_package_version": "1",
+    "mix_package_type": "webcomponent",
+    "file": "vega-embed-simple.js",
+    "tag": "vega-embed-simple",
+    "version": "1.0.0",
+    "icon": "chart-bar",
+    "description": "Simple Web Comp to render a Vega Spec",
+    "annotation": "",
+    "module": true,
+    "ins": [
+        {
+            "name": "config",
+            "type": {}
+        }
+    ],
+    "events": [],
+    "slots": {},
+    "url": "https://github.com/remixlabs/web-components/raw/refs/heads/main/webcomps/vega-embed-simple/dist/vega-embed-simple.zip"
+}
