@@ -1,9 +1,7 @@
 {
     "tag": "vega-embed-simple",
     "version": "1.0.0",
-    "icon": "chart-bar",
     "description": "Simple Web Comp to render a Vega Spec",
-    "annotation": "",
     "module": true,
     "ins": [
         {
@@ -12,6 +10,5 @@
         }
     ],
     "events": [],
-    "slots": {},
-    "url": "https://raw.githubusercontent.com/dprophete/test-webcomp-vega-embed-simple/refs/heads/main/dist/vega-embed-simple.js"
+    "url": "https://dprophete.github.io/test-webcomp-vega-embed-simple/dist/vega-embed-simple.js"
 }
